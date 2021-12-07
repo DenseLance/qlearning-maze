@@ -10,7 +10,7 @@
 
 ## **Additional Information**
 
-[Important Information]: https://drive.google.com/file/d/1xKVEjbnlA0dPOcXOg9w-yIffEzXRQWkm/view?usp=sharing
+[Click me for more information about this project.](https://drive.google.com/file/d/1xKVEjbnlA0dPOcXOg9w-yIffEzXRQWkm/view?usp=sharing)
 
 * Run learn.py to learn without simulation, and visualise.py to learn with simulation. *epochs* refers to number of episodes, *create_new_qtable* resets past experiences, and *regressor* would be used to predict the Q-values instead of using the values in the Q-table.
 
