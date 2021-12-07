@@ -6,7 +6,8 @@
 * Second set of states S
   * **Same maze, vanilla Q-learning:** 48 wins out of 100 episodes, 1st win on 25th episode, 1 loss from 76th to 100th episode.
   * **Random mazes, vanilla Q-learning:** 49 wins out of 500 episodes, 1st win on 30th episode, 12 wins from 401st to 500th episode.
-  * **Random mazes, Q-learning + Random Forest:** 7 wins out of 100 episodes, 1st win on 30th episode.Takes way longer time than vanilla Q-learning as all memory from all episodes need to be fit to the model, and the model is refitted at every time step.
+  * **Random mazes, Q-learning + Random Forest:** 7 wins out of 100 episodes, 1st win on 30th episode.
+    * Takes way longer time than vanilla Q-learning as all memory from all episodes need to be fit to the model, and the model is refitted at every time step.
 
 ## **Additional Information**
 
